@@ -164,8 +164,8 @@ type Mention {
 `;
 
 const driver = neo4j.driver(
-  "neo4j+s://7b06a2cb.databases.neo4j.io",
-  neo4j.auth.basic("neo4j", "sccioIgh-VDg_gjJr93nHFGDgngqXRoA602N_MlOMx0")
+  process.env.database,
+  neo4j.auth.basic(process.env.databaseName, process.env.databasePassword)
 );
 const neoSchema = new Neo4jGraphQL({ typeDefs, driver });
 
