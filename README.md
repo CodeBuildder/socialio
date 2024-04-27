@@ -79,9 +79,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-- Your Name - [me@kaushikk.dev](me@kaushikk.dev)
+- Kaushik Kumaran - [me@kaushikk.dev](me@kaushikk.dev)
 - Project Link: [https://github.com/CodeBuildder/socialio](https://github.com/CodeBuildder/socialio/new/main)
-- Checkout more @ [kaushikk.dev](https://kaushikk.dev/)
+- Know more about me @ [kaushikk.dev](https://kaushikk.dev/)
 
 ## Acknowledgements
 
